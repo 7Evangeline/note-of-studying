@@ -1,5 +1,3 @@
-# 学习markdowm
-
 [markdown语法参考!](https://guides.github.com/features/mastering-markdown/)
 
 Q: 如何预览？

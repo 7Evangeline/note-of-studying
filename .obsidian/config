@@ -1,0 +1,51 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": false,
+    "Word count": true,
+    "Tag pane": true,
+    "Daily notes": true,
+    "Starred": true,
+    "Custom CSS": true,
+    "Slides": true,
+    "Open with default app": true,
+    "Page preview": true,
+    "Audio recorder": false
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "obsidian",
+  "workspaceLayout": {
+    "id": "d54b4bf7c5740d8a",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "d0f0f525b2f40beb",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "技术/git.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "技术/markdown.md",
+    "git.md"
+  ]
+}
